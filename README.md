@@ -1,6 +1,11 @@
+# Wordle
+
 Echipa Tom si Jerry
+
 Hodivoianu Anamaria - grupa 132
+
 Uceanu Irina Alexandra - grupa 132
+
 
 Proiectul este alcatuit din 2 programe: Wordle.py si Ghicitor.py,
 primul care alege cuvantul si al doilea care incearca sa il 
@@ -12,7 +17,7 @@ il scrie in fisierul cuvandOptim.txt. Wordle.py citeste incercarea si o
 interpreteaza, punand in out.txt un string format din 5 caractere
 din multimea {0, 1, 2} (0-gri, 1-galben, 2-verde).
 
-Ghicitor.py va interpreta, prin functia "interpretare",acest 
+Ghicitor.py va interpreta, prin functia "interpretare", acest 
 raspuns si va scoate din lista, citita in variabila "cuvinte", 
 toate cuvintele care nu se potrivesc, adica cele care contin o 
 litera care nu se afla in cuvantul de ghicit, cele care nu contin 
